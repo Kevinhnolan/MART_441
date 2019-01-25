@@ -1,20 +1,12 @@
 .hero {
-    /* Sizing */
+
     width: 100vw;
     height: 100vh;
-
-    /* Flexbox stuff */
     display: flex;
     justify-content: center;
     align-items: center;
-
-    /* Text styles */
     text-align: center;
-
-    /* Background styles */
-
-
-    background-image: url(https://github.com/Kevinhnolan/MART_441/blob/master/Homework_1/images/Sarg_Wall.jpg);
+    background-image: url(https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiowNXW-IfgAhXmQ98KHWB9BBMQjRx6BAgBEAU&url=https%3A%2F%2Fwww.larjei.it%2Fen%2Fsummer%3Fpage%3Dsudtirol-sellaronda-hero-4%26position%3Dright&psig=AOvVaw0aLcIXHbgF_bZfNcVwN4E8&ust=1548471665501047);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;

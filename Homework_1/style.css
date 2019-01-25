@@ -40,7 +40,7 @@ body {
 
 
 body .content {
-  position: absolute;
+  position: center;
   z-index: 1000;
   top: 80vh;
   background: #faf8f8;
@@ -50,7 +50,7 @@ body .content {
 }
 
 .ct_icon_box {
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 .ct_icon_box_section {

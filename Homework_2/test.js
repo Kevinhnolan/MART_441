@@ -1,1 +1,1 @@
-console.log("Three favorite restaurantes would have to be --- 1. Delayne's Pub North Conway, NH  2. The Red Parka Pub Bartlett, NH  3. Jamesbar Missoula MT---Snack Foods=Cookies, Bananas, Oranges---Favorite fruits=Oranges ofcourse, along with Bananas and bell peppers!");
+console.log("Three favorite restaurants would have to be --- 1. Delayne's Pub North Conway, NH  2. The Red Parka Pub Bartlett, NH  3. Jamesbar Missoula MT---Snack Foods=Cookies, Bananas, Oranges---Favorite fruits=Oranges ofcourse, along with Bananas and bell peppers!");

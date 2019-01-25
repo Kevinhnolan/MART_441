@@ -46,7 +46,7 @@ body .content {
   background: #faf8f8;
   width: 100%;
   box-shadow: 0 -2px 1px rgba(0, 0, 0, 0.15);
-  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  border-top: 5px solid rgba(255, 255, 255, 0.2);
 }
 
 .ct_icon_box {

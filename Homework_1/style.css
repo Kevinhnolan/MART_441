@@ -9,6 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+    /* The is how to set your background image, I placed another darker image infront to give a better look at the text*/
     background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(https://raw.githubusercontent.com/Kevinhnolan/MART_441/master/Homework_1/images/Sarg_Wall.jpg);
     background-size: cover;
     background-position: center center;
@@ -34,11 +35,7 @@ body {
   color: white;
 
 }
-
-
-
-
-
+/* Most of this code had come from https://www.solodev.com/blog/web-design/how-to-create-a-parallax-hero-image.stml */
 body .content {
   position: center;
   z-index: 1000;

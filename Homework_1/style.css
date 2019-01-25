@@ -29,9 +29,12 @@ body {
   border: 2px solid white;
   padding: 1em;
   margin-top: 50px;
+  /* autofills the margins to center in screen */
   margin-left: auto;
   margin-right: auto;
+  /* Gives the border some rounded edges */
   border-radius: 20px;
+  /* turns button text white */
   color: white;
 
 }
@@ -45,7 +48,7 @@ body .content {
   box-shadow: 0 -2px 1px rgba(0, 0, 0, 0.15);
   border-top: 5px solid rgba(255, 255, 255, 0.2);
 }
-
+/* spacing of margin from botton */
 .ct_icon_box {
   margin-bottom: 100px;
 }
@@ -58,7 +61,7 @@ body .content {
   text-align: center;
   padding-top: 20px;
 }
-
+/* Style for the h2 located in index */
 .ct-section_header h2 {
   font-size: 65px;
   font-size: 6.5rem;
@@ -88,8 +91,9 @@ body .content {
 }
 
 .ct-section_header.ct-section_header--type2 .ct-section_header-separator {
-  background-color: #0BB3E1;
+  background-color: black;
 }
+/* #0BB3E1 */
 
 .ct-section_header-separator {
   background-color: #924399;
